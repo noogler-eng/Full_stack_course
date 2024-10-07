@@ -1,0 +1,19 @@
+{
+  "name": "week-1",
+  "version": "1.0.0",
+  "description": "## Accounts  - are like the files in Solana's network ledger.   - All state data is stored in an account.   - Accounts can be used for many things, it can store SOL.  -",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@project-serum/borsh": "^0.2.5",
+    "@solana/web3.js": "^1.95.3",
+    "bs58": "^6.0.0",
+    "dotenv": "^16.4.5",
+    "types-bn": "^0.0.1"
+  }
+}
